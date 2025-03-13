@@ -1,0 +1,27 @@
+﻿html {
+    margin: 0px;
+    min-height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+    font-size: 20vmin;
+    font-weight: bold;
+    color: white;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.row {
+    flex: 1;
+    display: flex;
+    justify-content: space-evenly;
+    height: 100%;
+}
+

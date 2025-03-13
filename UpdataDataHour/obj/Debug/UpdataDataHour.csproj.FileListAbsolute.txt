@@ -1,0 +1,13 @@
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Debug\UpdataDataHour.exe.config
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Debug\UpdataDataHour.exe
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Debug\UpdataDataHour.pdb
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Debug\WebApplication2.dll
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Debug\WebApplication2.pdb
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Debug\WebApplication2.dll.config
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\obj\Debug\UpdataDataHour.csproj.AssemblyReference.cache
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\obj\Debug\UpdataDataHour.csproj.CoreCompileInputs.cache
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\obj\Debug\UpdataDataHour.exe
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\obj\Debug\UpdataDataHour.pdb
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\obj\Debug\UpdataDa.2749064E.Up2Date

@@ -1,0 +1,198 @@
+﻿html {
+    margin: 0px;
+    min-height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    background-color: snow;
+    font-family:'Helvetica', 'Arial', sans-serif;
+}
+
+.all {
+    margin: 0px;
+    position: absolute;
+    align-items: center;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color:aqua;
+    font-size: 3vmin;
+    font-weight: bold;
+    color: white;
+}
+
+.top {
+    margin: 0px;
+    position: absolute;
+    align-items: center;
+    top: 0;
+    height: 5%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    font-size: 3vmin;
+    font-weight: bold;
+    color:white;
+}
+
+.center {
+    margin: 0px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.firstrow {
+    position: absolute;
+    left: 2%;
+    width: 28%;
+    background-color: lightblue;
+    margin-bottom: 0px;
+}
+
+.firstrow_text {
+    margin: 0px;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-flow: wrap;
+    background-color: cyan;
+    font-size: 12vmin;
+    font-weight: bold;
+    color: black;
+}
+
+
+.firstrow_label {
+    margin: 0px;
+    position: absolute;
+    align-items: center;
+    justify-content:right;
+    top: 50%;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    background-color: black;
+    font-size: 13vmin;
+    font-weight: bold;
+    color: white;
+}
+.plan {
+    top: 7%;
+    height: 29%;
+}
+
+
+
+.target {
+    top: 38%;
+    height: 29%;}
+
+.actual {
+    top: 69%;
+    height: 29%;
+}
+
+.secondrow {
+    position: absolute;
+    left: 32%;
+    width: 66%;
+    background-color: lightblue;
+}
+
+.bekido {
+    top: 7%;
+    height:19%;
+}
+
+.bekido_text {
+    margin: 0px;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    height: 100%;
+    width: 40%;
+    display: flex;
+    background-color: cyan;
+    font-size: 14vmin;
+    font-weight: bold;
+    color: black;
+}
+
+.bekido_label {
+    margin: 0px;
+    position: absolute;
+    align-items: center;
+    justify-content: right;
+    left: 40%;
+    height: 100%;
+    width: 60%;
+    display: flex;
+    background-color: black;
+    font-size: 18vmin;
+    font-weight: bold;
+    color: white;
+}
+
+.detail {
+    top: 28%;
+    height: 70%;
+}
+
+.detail_table {
+    position: absolute;
+    height: auto;
+    width: 100%;
+    max-height: 100%;
+}
+
+.detail_header {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: cyan;
+    font-size: 3vmin;
+    font-weight: bold;
+    color: black;
+}
+
+.detail_data {
+    padding: 0px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 4.67vmin;
+    font-weight: bold;
+}
+
+.row_odd {
+    background-color: black;
+    color: white;
+}
+
+.row_even {
+    background-color: #333333;
+    color: white;
+}
+
+.row_yellow {
+    background-color: yellow;
+    color: black;
+}
+
+.row_red {
+    background-color: red;
+    color: black;
+}

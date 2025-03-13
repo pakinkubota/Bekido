@@ -1,0 +1,26 @@
+C:\Users\SKC\Desktop\VS_test\WebApplication2\UpdataDataHour\bin\Release\UpdataDataHour.exe.config
+C:\Users\SKC\Desktop\VS_test\WebApplication2\UpdataDataHour\bin\Release\UpdataDataHour.exe
+C:\Users\SKC\Desktop\VS_test\WebApplication2\UpdataDataHour\bin\Release\UpdataDataHour.pdb
+C:\Users\SKC\Desktop\VS_test\WebApplication2\UpdataDataHour\obj\Release\UpdataDataHour.csproj.AssemblyReference.cache
+C:\Users\SKC\Desktop\VS_test\WebApplication2\UpdataDataHour\obj\Release\UpdataDataHour.csproj.CoreCompileInputs.cache
+C:\Users\SKC\Desktop\VS_test\WebApplication2\UpdataDataHour\obj\Release\UpdataDataHour.exe
+C:\Users\SKC\Desktop\VS_test\WebApplication2\UpdataDataHour\obj\Release\UpdataDataHour.pdb
+C:\Users\SKC\Desktop\VS_test\WebApplication2\UpdataDataHour\bin\Release\WebApplication2.dll
+C:\Users\SKC\Desktop\VS_test\WebApplication2\UpdataDataHour\bin\Release\WebApplication2.pdb
+C:\Users\SKC\Desktop\VS_test\WebApplication2\UpdataDataHour\bin\Release\WebApplication2.dll.config
+C:\Users\SKC\Desktop\VS_test\WebApplication2\UpdataDataHour\obj\Release\UpdataDataHour.csproj.CopyComplete
+C:\Users\SKC\Desktop\VS_test\WebApplication2\UpdataDataHour\bin\Release\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SKC\Desktop\VS_test\WebApplication2\UpdataDataHour\bin\Release\Microsoft.AspNet.FriendlyUrls.xml
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Release\UpdataDataHour.exe.config
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Release\UpdataDataHour.exe
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Release\UpdataDataHour.pdb
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Release\WebApplication2.dll
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Release\Microsoft.AspNet.FriendlyUrls.dll
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Release\WebApplication2.pdb
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Release\WebApplication2.dll.config
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\bin\Release\Microsoft.AspNet.FriendlyUrls.xml
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\obj\Release\UpdataDataHour.csproj.AssemblyReference.cache
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\obj\Release\UpdataDataHour.csproj.CoreCompileInputs.cache
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\obj\Release\UpdataDataHour.exe
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\obj\Release\UpdataDataHour.pdb
+G:\Shared drives\SKCA FGL Sharing 2\04 Production Development\09 Programing\C#\WebApplication2\UpdataDataHour\obj\Release\UpdataDa.2749064E.Up2Date

@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Bekido.Master.cs" Inherits="WebApplication2.Site1" %>
+
+<style>
+.firstrow span {
+    align-items: center;
+    justify-content: center;
+}
+
+.secondrow span {
+    align-items: center;
+    justify-content: center;
+}
+</style>
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<link href="Bekido.css" rel="stylesheet" />
+
+<head runat="server">
+    <title><asp:ContentPlaceHolder ID="title" runat="server"></asp:ContentPlaceHolder></title>
+    <link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/11068/11068821.png">
+    <meta http-equiv="refresh" content="10">
+</head>
+
+<body>
+
+    <form id="form1" runat="server">
+        <div class="top">
+            <span>
+                <asp:HyperLink ID="hplMain" runat="server" ForeColor="White" NavigateUrl="http://172.20.162.105/fgltest/Bekido_Main.aspx"> Main </asp:HyperLink>
+                <asp:Label ID="lblHeadLine" runat="server" Text=""></asp:Label>
+                <asp:Label ID="lblWorkingPeriod" runat="server"></asp:Label>
+                <asp:Label ID="lblStatus" runat="server" Text=" Status"></asp:Label>
+            </span>
+            <span id="timeNow">Time&nbsp;</span>
+            <script type="text/javascript" src="Clock.js"></script>
+        </div>
+        <div class="plan firstrow">
+            <div class="firstrow_text">
+                Plan
+            </div>
+            <asp:Label ID="lblPlan" runat="server" Text="0" CssClass="firstrow_label"></asp:Label>
+        </div>
+        <div class="target firstrow">
+            <div class="firstrow_text">
+                Target
+            </div>
+            <asp:Label ID="lblTarget" runat="server" Text="0" CssClass="firstrow_label"></asp:Label>
+        </div>
+        <div class="actual firstrow">
+            <div class="firstrow_text">
+                Actual
+            </div>
+            <asp:Label ID="lblActual" runat="server" Text="0" CssClass="firstrow_label"></asp:Label>
+        </div>
+        <div class="bekido secondrow">
+            <div class="bekido_text">
+                Bekido
+            </div>
+            <asp:Label ID="lblBekido" runat="server" Text="lblBekido" CssClass="bekido_label"></asp:Label>
+        </div>
+        <div class="detail secondrow">
+            <asp:GridView ID="gvwDetail" runat="server" CssClass="detail_table" AutoGenerateColumns="False" CellPadding="0" Height="100%" Width="100%" GridLines="None">
+            <!-- #include file="GridviewStyle.html" -->
+            </asp:GridView>
+        </div>
+    </form>
+</body>
+</html>

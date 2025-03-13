@@ -1,0 +1,63 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Runtime.InteropServices;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+using FGL;
+
+namespace UpdataDataHour
+{
+    class Script
+    {
+        static List<Task> tasks;
+        static Task Main(string[] args)
+        {
+            
+            int[] scheduledLineCodeArray = { 990000,990001 };
+            int[] scheduledLineCodeArrayCell = { 920602, 920604, 920606,920608};
+            String[] pickingLampStaionArrayCell = { "920L01", "920L02", "920L03", "920L04" };
+            TimeSpan timeFinish = DateTime.Parse("21:30:00").TimeOfDay;
+            TimeSpan timeStart = DateTime.Parse("07:20:00").TimeOfDay;
+            while (true)
+            {
+                TimeSpan now = DateTime.Now.TimeOfDay;
+                if (now<timeFinish && now>timeStart)
+                {
+                    DateTime start = DateTime.Now;
+                    Console.WriteLine($"Update at {start}");
+                    tasks = new List<Task>();
+                    foreach (int i in scheduledLineCodeArray)
+                        tasks.Add(UpdataDataBekido(i, "n"));
+                    for (int i = 0; i < scheduledLineCodeArrayCell.Length; i++)
+                        tasks.Add(UpdataDataBekido(scheduledLineCodeArrayCell[i], "c", pickingLampStaionArrayCell[i]));
+                    Task.WaitAll(tasks.ToArray());
+                    Console.WriteLine($"Take {(DateTime.Now - start).TotalSeconds.ToString("0.0000")} Sec");
+                    Console.WriteLine($"+++++++++++++++++++++++++++++++++++");
+                    
+                }
+                Thread.Sleep(10000);
+            }
+        }
+
+        static async Task UpdataDataBekido(int scheduledLineCode,string mode,string pickingLampStaion = "-")
+        {
+            await Task.Run(() => {
+                try
+                {
+                    DateTime start = DateTime.Now;
+                    DataHour dataHour = new DataHour(scheduledLineCode, mode, pickingLampStaion);
+                    dataHour.UpdateData();
+                    Console.WriteLine($"{scheduledLineCode} finished ({(DateTime.Now - start).TotalSeconds.ToString("0.0000")} sec)");
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.ToString());
+                }
+            });
+            
+        }
+    }
+}
