@@ -393,7 +393,8 @@ namespace FGL
             }
 
             if (line == "n")
-            {
+            {   
+                int useTatkTimeRemain =  taktTimeRemain > taktTimeActual ? 0 : taktTimeRemain;
                 double planDecimal = (Convert.ToDouble(workingSec) + taktTimeActual - taktTimeRemain) / taktTimeActual;
                 plan = Convert.ToInt32(Math.Floor(planDecimal));
             }

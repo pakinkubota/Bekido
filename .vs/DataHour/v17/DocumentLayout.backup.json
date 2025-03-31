@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{509F847D-574F-4056-9F37-5E386E0AE9C8}|UpdataDataHour\\UpdataDataHour.csproj|g:\\shared drives\\skca fgl sharing 2\\04 production development\\09 programing\\c#\\webapplication2\\updatadatahour\\script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509F847D-574F-4056-9F37-5E386E0AE9C8}|UpdataDataHour\\UpdataDataHour.csproj|solutionrelative:updatadatahour\\script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568DE80E-8626-4FE4-85D5-61ED2A6CD95E}|WebApplication2\\WebDataHour.csproj|G:\\Shared drives\\SKCA FGL Sharing 2\\04 Production Development\\09 Programing\\C#\\WebApplication2\\webapplication2\\datahour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568DE80E-8626-4FE4-85D5-61ED2A6CD95E}|WebApplication2\\WebDataHour.csproj|solutionrelative:webapplication2\\datahour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568DE80E-8626-4FE4-85D5-61ED2A6CD95E}|WebApplication2\\WebDataHour.csproj|G:\\Shared drives\\SKCA FGL Sharing 2\\04 Production Development\\09 Programing\\C#\\WebApplication2\\webapplication2\\bekido_cell_1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{568DE80E-8626-4FE4-85D5-61ED2A6CD95E}|WebApplication2\\WebDataHour.csproj|solutionrelative:webapplication2\\bekido_cell_1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568DE80E-8626-4FE4-85D5-61ED2A6CD95E}|WebApplication2\\WebDataHour.csproj|G:\\Shared drives\\SKCA FGL Sharing 2\\04 Production Development\\09 Programing\\C#\\WebApplication2\\webapplication2\\bekido_cell_1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568DE80E-8626-4FE4-85D5-61ED2A6CD95E}|WebApplication2\\WebDataHour.csproj|solutionrelative:webapplication2\\bekido_cell_1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataHour.cs",
+              "DocumentMoniker": "G:\\Shared drives\\SKCA FGL Sharing 2\\04 Production Development\\09 Programing\\C#\\WebApplication2\\WebApplication2\\DataHour.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\DataHour.cs",
+              "ToolTip": "G:\\Shared drives\\SKCA FGL Sharing 2\\04 Production Development\\09 Programing\\C#\\WebApplication2\\WebApplication2\\DataHour.cs*",
+              "RelativeToolTip": "WebApplication2\\DataHour.cs*",
+              "ViewState": "AgIAAIABAAAAAAAAAAD4v4wBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:55:09.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bekido_Cell_1.aspx.cs",
+              "DocumentMoniker": "G:\\Shared drives\\SKCA FGL Sharing 2\\04 Production Development\\09 Programing\\C#\\WebApplication2\\WebApplication2\\Bekido_Cell_1.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Bekido_Cell_1.aspx.cs",
+              "ToolTip": "G:\\Shared drives\\SKCA FGL Sharing 2\\04 Production Development\\09 Programing\\C#\\WebApplication2\\WebApplication2\\Bekido_Cell_1.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\Bekido_Cell_1.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:54:51.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bekido_Cell_1.aspx",
+              "DocumentMoniker": "G:\\Shared drives\\SKCA FGL Sharing 2\\04 Production Development\\09 Programing\\C#\\WebApplication2\\WebApplication2\\Bekido_Cell_1.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Bekido_Cell_1.aspx",
+              "ToolTip": "G:\\Shared drives\\SKCA FGL Sharing 2\\04 Production Development\\09 Programing\\C#\\WebApplication2\\WebApplication2\\Bekido_Cell_1.aspx",
+              "RelativeToolTip": "WebApplication2\\Bekido_Cell_1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-13T10:54:45.565Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Script.cs",
               "DocumentMoniker": "G:\\Shared drives\\SKCA FGL Sharing 2\\04 Production Development\\09 Programing\\C#\\WebApplication2\\UpdataDataHour\\Script.cs",
               "RelativeDocumentMoniker": "UpdataDataHour\\Script.cs",
-              "ToolTip": "G:\\Shared drives\\SKCA FGL Sharing 2\\04 Production Development\\09 Programing\\C#\\WebApplication2\\UpdataDataHour\\Script.cs",
-              "RelativeToolTip": "UpdataDataHour\\Script.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "ToolTip": "G:\\Shared drives\\SKCA FGL Sharing 2\\04 Production Development\\09 Programing\\C#\\WebApplication2\\UpdataDataHour\\Script.cs*",
+              "RelativeToolTip": "UpdataDataHour\\Script.cs*",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFoAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T10:04:34.801Z",
               "EditorCaption": ""
